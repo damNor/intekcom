@@ -4,4 +4,5 @@
 	<img src="{image:url:small}" /> <br/>
 	<?php $url = '{image:url:small}';$encoded = ( file_get_contents($url) !== false ? base64_encode(file_get_contents($url)) : '') ; echo $encoded;?><br />
 {/exp:channel_images:images} 
-{/exp:channel:entries}
+{/exp:channel:entries} 
+{!-- --}
