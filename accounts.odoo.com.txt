@@ -1,0 +1,12 @@
+accounts.odoo.com
+email : tyas.indoteknik@gmail.com
+password : indoteknikh99
+
+database trial : pt-indoteknik-dotcom
+
+tambah field description for quotation / description_sale   , isinya short description EE 
+tambah field tax / supplier_taxes_id/id
+
+
+property_account_expense_id/id dikosongkan
+property_account_income_id/id dikosongkan
